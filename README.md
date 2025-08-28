@@ -9,7 +9,7 @@
 
   
 ## Data Source
--This dataset was gotten from https://kaggle.com
+- This dataset was gotten from https://kaggle.com
 
 
 ## Data Cleaning Process
