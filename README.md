@@ -1,12 +1,18 @@
 ## Shopsmart
 
-#Introduction
+## Introduction
 - This shows the rate of freelancing in the United States of America (USA)
-#Objective
+
+  
+##Objective
 - This aims to show freelancers availability, gender who are into freelancing and their clients satisfaction rate.
-#Data Source
+
+  
+##Data Source
 -This dataset was gotten from https://kaggle.com
-#Data Cleaning Process
+
+
+##Data Cleaning Process
 - I created a duplicate which I then started editing
 - Changed the header to proper case
 - Adjusted the gender column i.e. M - Male, F - Female and I applied proper case
