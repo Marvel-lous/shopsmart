@@ -3,7 +3,7 @@
 - This shows the rate of freelancing in the United States of America (USA).
 
   
-## Objective
+# Objective
 - This aims to show freelancers availability, gender who are into freelancing and their clients satisfaction rate.
 
   
