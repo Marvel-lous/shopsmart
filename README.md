@@ -1,4 +1,3 @@
-## Shopsmart
 
 ## Introduction
 - This shows the rate of freelancing in the United States of America (USA)
